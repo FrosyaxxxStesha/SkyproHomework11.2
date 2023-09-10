@@ -1,4 +1,7 @@
 def func(string):
+    """
+    Это костыль
+    """
     return string.upper()
 
 
