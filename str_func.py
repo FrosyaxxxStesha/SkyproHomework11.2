@@ -10,3 +10,5 @@ def func_2(string):
     И тааак сойдёт!
     """
     return string.title()
+
+a = "что-то фиксим"
